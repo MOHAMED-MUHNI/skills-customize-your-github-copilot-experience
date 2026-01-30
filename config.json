@@ -1,7 +1,4 @@
 {
-  "name": "REST API with FastAPI",
-  "folder": "rest-api-fastapi",
-  "dueDate": "2026-02-06",
   "course": {
     "title": "Computer Science",
     "school": "Mergington High School",
@@ -61,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-api-fastapi",
+      "title": "REST API with FastAPI",
+      "description": "Build and test RESTful APIs using the FastAPI framework.",
+      "path": "assignments/rest-api-fastapi",
+      "dueDate": "2026-02-06"
     }
   ]
 }
