@@ -1,4 +1,7 @@
 {
+  "name": "REST API with FastAPI",
+  "folder": "rest-api-fastapi",
+  "dueDate": "2026-02-06",
   "course": {
     "title": "Computer Science",
     "school": "Mergington High School",
